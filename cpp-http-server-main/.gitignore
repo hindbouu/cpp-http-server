@@ -1,0 +1,81 @@
+# Compiled binaries
+server
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Debug information
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+cmake-build-*/
+.cmake/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.make
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+
+# Profiling data
+*.prof
+gmon.out
+
+# Core dumps
+core
+core.*
+
+# Package files
+*.tar.gz
+*.zip
+*.deb
+*.rpm
